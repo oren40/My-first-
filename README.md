@@ -28,10 +28,10 @@ and break into the high-tech world — preferably in companies like **Microsoft*
 
 ---
 
-## 💬 Feel free to connect
+## ## 📫 Contact Me
 
-Reach out on [LinkedIn](https://www.linkedin.com) or by email 📧
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://linkedin.com/in/oren-peretz)
+[![Gmail](https://img.shields.io/badge/-oren.peretz40@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oren.peretz40@gmail.com)
 ---
 
 ## 🎓 Certificates
