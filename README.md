@@ -34,4 +34,11 @@ Reach out on [LinkedIn](https://www.linkedin.com) or by email 📧
 
 ---
 
+## 🎓 Certificates
+
+- [Meta Data Analyst – Coursera](https://coursera.org/verify/your-certificate-id)
+- [Generative AI – Google Cloud](https://www.cloudskillsboost.google/)
+- [Selenium WebDriver – Udemy](https://udemy.com)
+
+
 Thanks for visiting! ⭐
